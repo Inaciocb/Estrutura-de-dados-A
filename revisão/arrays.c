@@ -16,7 +16,7 @@ int main()
     /*
     
      vetor mat2 recebe os valores conforme a fórmula 
-            "v[k] = mat[i][j] onde k = n * i + j em que n é o número de
+            "v[k] = mat[i][j] onde k = n * i + j e n é o número de
              colunas da matriz bidimensional"
    
    */
